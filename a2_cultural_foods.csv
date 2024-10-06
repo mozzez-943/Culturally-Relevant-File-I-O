@@ -1,0 +1,50 @@
+Name,Rating,Origin,Category,Vegetarian,Halal,Gluten-Free
+Sushi,4.8,Japan,Main Course,no,no,yes
+Tacos,4.5,Mexico,Main Course,yes,no,no
+Croissant,4.7,France,Bakery,yes,no,no
+Pad Thai,4.6,Thailand,Main Course,yes,yes,no
+Gelato,4.9,Italy,Dessert,yes,yes,yes
+Falafel,4.3,Middle East,Main Course,yes,yes,yes
+Poutine,4.2,Canada,Main Course,no,no,no
+Biryani,4.7,India,Main Course,no,yes,no
+Baklava,4.4,Turkey,Dessert,yes,yes,no
+Kimchi,4.5,South Korea,Side Dish,yes,yes,yes
+Pierogi,4.3,Poland,Main Course,yes,no,no
+Churros,4.6,Spain,Dessert,yes,no,no
+Hummus,4.8,Middle East,Side Dish,yes,yes,yes
+Pho,4.7,Vietnam,Main Course,no,yes,yes
+Moussaka,4.4,Greece,Main Course,no,yes,no
+Empanadas,4.5,Argentina,Main Course,no,no,no
+Ramen,4.6,Japan,Main Course,no,no,no
+Tiramisu,4.9,Italy,Dessert,yes,yes,no
+Shakshuka,4.7,Middle East,Main Course,yes,yes,yes
+Paella,4.3,Spain,Main Course,no,no,no
+Tom Yum,4.5,Thailand,Main Course,no,yes,yes
+Bruschetta,4.6,Italy,Appetizer,yes,yes,no
+Goulash,4.4,Hungary,Main Course,no,yes,yes
+Bibimbap,4.7,South Korea,Main Course,no,yes,no
+Ceviche,4.8,Peru,Appetizer,no,yes,yes
+Ratatouille,4.6,France,Main Course,yes,yes,yes
+Samosa,4.5,India,Appetizer,yes,yes,no
+Dolma,4.4,Turkey,Appetizer,yes,yes,yes
+Kebab,4.7,Middle East,Main Course,no,yes,yes
+Pavlova,4.8,Australia,Dessert,yes,yes,yes
+Laksa,4.5,Malaysia,Main Course,no,yes,no
+Arepas,4.6,Venezuela,Main Course,yes,yes,yes
+Baba Ganoush,4.7,Middle East,Side Dish,yes,yes,yes
+Tandoori Chicken,4.8,India,Main Course,no,yes,yes
+Mochi,4.6,Japan,Dessert,yes,yes,yes
+Feijoada,4.5,Brazil,Main Course,no,yes,no
+Pasta Carbonara,4.7,Italy,Main Course,no,no,no
+Jollof Rice,4.8,Nigeria,Main Course,no,yes,yes
+Peking Duck,4.6,China,Main Course,no,yes,no
+Borscht,4.5,Ukraine,Main Course,yes,yes,yes
+Chana Masala,4.7,India,Main Course,yes,yes,yes
+Kofta,4.8,Middle East,Main Course,no,yes,yes
+Tamales,4.6,Mexico,Main Course,yes,yes,no
+Bakso,4.5,Indonesia,Main Course,no,yes,no
+Mango Sticky Rice,4.7,Thailand,Dessert,yes,yes,yes
+Pav Bhaji,4.8,India,Main Course,yes,yes,no
+Shawarma,4.6,Middle East,Main Course,no,yes,no
+Gado-Gado,4.5,Indonesia,Main Course,yes,yes,yes
+Piernik,4.7,Poland,Dessert,yes,yes,no
