@@ -1,5 +1,5 @@
-source_file = open('dishes_by_votes.txt', 'r')
-destination_file = open('filtered_dishes.txt', 'w')
+source_file = open('a1_dishes_by_votes.txt', 'r')
+destination_file = open('a1_filtered_dishes.txt', 'w')
 line = source_file.readline()
 while line:
     dish, score = line.split(':')

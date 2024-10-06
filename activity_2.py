@@ -1,7 +1,7 @@
 import csv
 
-source_file = open('students.csv', 'r')
-destination_file = open('filtered_students.txt', 'w')
+source_file = open('a2_students.csv', 'r')
+destination_file = open('a2_filtered_students.txt', 'w')
 
 reader = csv.DictReader(source_file)
 
