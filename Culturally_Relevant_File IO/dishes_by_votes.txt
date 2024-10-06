@@ -1,0 +1,10 @@
+Poutine:5
+Carbonara:15
+Ratatouille:7
+Paella:10
+Khachapuri:4
+Injera:2
+Borscht:3
+Sushi:20
+Tandoori Chicken:5
+Falafel:10
