@@ -1,6 +1,4 @@
-## Activity 1 for Culturally Relevant Pedagogy in Computing Education: File I/O
-Please follow the steps in the module below:
+## Supporting Code for Culturally Relevant Pedagogy in Computing Education: File I/O Exercises
+Please download the repository and follow the steps from the module: [Link](<https://ecampusontario.pressbooks.pub/cscriticalpedagogies/chapter/culturally-relevant-pedagogy-in-computing-education-file-i-o/>)
 
-[Link](<https://ecampusontario.pressbooks.pub/cscriticalpedagogies/chapter/culturally-relevant-pedagogy-in-computing-education-file-i-o/>)
-
-_This activity is part of an additional module developed for students at the CSC108 level_
+_These activities are part of an additional module developed for students at the CSC108 level._
